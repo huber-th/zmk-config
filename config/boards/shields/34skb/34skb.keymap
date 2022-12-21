@@ -81,7 +81,7 @@
     
       third_layer {
         bindings = <
-          &kp ESC  &kp K_PP &kp K_PREV   &kp K_NEXT   &kp LS(MINUS)   &kp F10  &kp F7 &kp F8 &kp F9 &kp BSPC
+          &kp ESC  &kp C_PP &kp C_PREV   &kp C_NEXT   &kp LS(MINUS)   &kp F10  &kp F7 &kp F8 &kp F9 &kp BSPC
           &kp LGUI &trans   &kp C_VOL_DN &kp C_VOL_UP &kp TAB         &kp F11  &kp F4 &kp F5 &kp F6 &kp RET 
           &trans   &trans   &trans       &trans       &kp LS(EQUAL)   &kp F12  &kp F1 &kp F2 &kp F3 &to 2  
                                          &to 0        &sk LSHFT       &kp LALT &to 1 
